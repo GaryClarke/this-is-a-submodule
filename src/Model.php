@@ -8,6 +8,6 @@ class Model
 
     public function doStuff(): string
     {
-        return 'Doing stuff';
+        return 'Doing more stuff';
     }
 }
