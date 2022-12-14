@@ -13,6 +13,6 @@ class Model
 
     public function rebasingDemo(): void
     {
-        echo 'Rebasing';
+        echo 'Rebasing stuff';
     }
 }
