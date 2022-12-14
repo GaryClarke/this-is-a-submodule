@@ -10,4 +10,9 @@ class Model
     {
         return 'Doing more stuff in info account';
     }
+
+    public function rebasingDemo(): void
+    {
+        echo 'Rebasing';
+    }
 }
